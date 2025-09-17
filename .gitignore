@@ -1,0 +1,13 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore bin folder (compiled output)
+bin/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
