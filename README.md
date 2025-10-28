@@ -56,14 +56,13 @@ This approach ensures **O(N³)** time complexity and guarantees the globally min
 ---
 
 ## 📂 Project Structure
-
 application/
+│
 ├── City.java # Represents a city and its connections
 ├── Connection.java # Represents the cost between two cities
 ├── TravelPath.java # Represents a route and its total cost
 ├── GraphVisualizer.java # Visualizes the city network and paths
 └── Main.java # Runs the app, applies DP, and manages UI logic
----
 
 ## 🖼️ Screenshots
 
