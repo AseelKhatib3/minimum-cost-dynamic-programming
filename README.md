@@ -100,9 +100,12 @@ This approach ensures **O(N³)** time complexity and guarantees the globally min
 
 ## 🚀 How to Run the Project
 
-1. **Clone or download** this repository:
-   ```bash
-   git clone https://github.com/AseelKhatib3/minimum-cost-dynamic-programming.git
+1. **Clone or download this repository:**
+   - 💻 To clone using **Terminal or Git Bash**, run the following command:
+     ```bash
+     git clone https://github.com/AseelKhatib3/minimum-cost-dynamic-programming.git
+     ```
+   - 📦 Or click the green **"Code"** button above and choose **"Download ZIP"**.
 2. Open the project in your preferred IDE (Eclipse / IntelliJ).
 3. Make sure all resource images (e.g., plane.png, map.png, money.png, etc.) are placed in your resources folder.
 4. Prepare your input.txt file with the following structure:
