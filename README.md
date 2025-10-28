@@ -1,4 +1,4 @@
-# 🚀 Optimal Travel Route Finder using Dynamic Programming (JavaFX Project)
+# 🚀 Optimal Travel Route Finder using Dynamic Programming 
 
 A modern and interactive **JavaFX application** that determines the **minimum-cost travel route** between cities using the **Dynamic Programming** approach (Floyd–Warshall Algorithm).  
 The project elegantly combines **algorithmic problem-solving** with a **visualized, animated UI**, making complex path optimization both efficient and easy to understand.  
