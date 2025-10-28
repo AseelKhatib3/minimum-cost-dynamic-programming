@@ -104,13 +104,13 @@ This approach ensures **O(N³)** time complexity and guarantees the globally min
    ```bash
    git clone https://github.com/AseelKhatib3/minimum-cost-dynamic-programming.git
 2. Open the project in your preferred IDE (Eclipse / IntelliJ).
-3.Make sure all resource images (e.g., plane.png, map.png, money.png, etc.) are placed in your resources folder.
-4.Prepare your input.txt file with the following structure:
+3. Make sure all resource images (e.g., plane.png, map.png, money.png, etc.) are placed in your resources folder.
+4. Prepare your input.txt file with the following structure:
 NumberOfCities
 StartCity, EndCity
 CityA, [CityB, PetrolCost, HotelCost], [CityC, PetrolCost, HotelCost]
-5.Run the project via the Main class.
-6.Enjoy the full route visualization ✈️🌍
+5. Run the project via the Main class.
+6. Enjoy the full route visualization ✈️🌍
 
 ---
 ## 🎬 Demo
