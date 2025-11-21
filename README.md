@@ -116,8 +116,4 @@ CityA, [CityB, PetrolCost, HotelCost], [CityC, PetrolCost, HotelCost]
 6. Enjoy the full route visualization ✈️🌍
 
 ---
-## 🎬 Demo
-
-🎥 Coming soon — a short video demo showcasing the algorithm and route visualization in action.
----
 ✨ Developed by Aseel Khatib
